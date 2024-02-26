@@ -1,0 +1,20 @@
+Python Scripting
+
+
+A Python script is a collection of commands in a file designed to be executed like a program. The file can of course contain functions and import various modules, but the idea is that it will be run or executed from the command line or from within a Python interactive shell to perform a specific task. Often a script first contains a set of function definitions and then has the main program that might call the functions. 
+
+
+Bash Scripting
+
+Bash
+
+Bash is a command language interpreter. It is widely available on various operating systems and is a default command interpreter on most GNU/Linux systems. The name is an acronym for the ‘Bourne-Again SHell’.
+
+Shell
+
+Shell is a macro processor which allows for an interactive or non-interactive command execution.
+
+Scripting
+
+Scripting allows for an automatic commands execution that would otherwise be executed interactively one-by-one.
+

@@ -1,0 +1,34 @@
+PLATFORM
+
+Top 5 Cloud Computing platforms:
+1. Microsoft Azure
+Azure has primarily been considered one of the best cloud services platforms out there, thanks to its comprehensive set of available services from Microsoft’s tech giant. The wide array of included services are enough to fulfill the needs of any business in any industry.
+
+With Azure, you can run services on the cloud, or you can combine it with any of your existing infrastructures. Azure was released back in 2010, and since then, it has proven to be a solid option for companies looking to transform digitally.
+
+
+
+2. Amazon Web Services
+Amazon Web Services (AWS) is one of the most popular cloud computing platforms to build interactive web solutions for your business. It has a vast selection of IaaS and PaaS services, including Elastic Cloud Compute (EC2), Elastic Beanstalk, Simple Storage Service (S3), and Relational Database Service (RDS).
+
+AWS’s infrastructure is highly customizable, making it possible for you to trim down costs by utilizing only the services you need.
+
+
+
+3. Google Cloud
+Google Cloud is a reliable, user-friendly, security-oriented cloud computing service from one of today’s biggest tech giants. Although Google Cloud’s selection of services isn’t as vast as Azure’s, it’s still enough to fulfill all your IaaS and PaaS needs. User-friendliness and security are two of its headlines.
+
+Just like Azure, your first 12 months of service remain free. Plus, Google claims its services are cheaper and more budget-friendly when compared to others.
+
+
+
+4. IBM Cloud
+IBM Cloud is another cloud computing platform that primarily focuses on the following cloud computing services: IaaS (Infrastructure as a Service), Saas (Software as a Service), and PaaS (Platform as a Service). It is one of the more budget-aligned pricing models in the market, plus it’s fully customizable that trims down costs even further. It is super easy to create an account use their APIs.
+
+
+
+5. CloudLinux
+If you prefer building your own IT infrastructure rather than relying on a third-party provider, CloudLinux is the way to go. It’s not a regular cloud services provider; it’s a cloud platform to set up your in-house infrastructure. As we can understand from its name, it is a Linux based operating system.
+
+Although working with CloudLinux sets you up with many challenges, it also has several perks and features, including complete control, flexibility, security, and deep customization.
+
